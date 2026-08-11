@@ -119,7 +119,7 @@ jobs:
         if: ${{ matrix.os == 'macos-latest' }}
 
       - name: Install Dependencies
-        uses: ssciwr/doxygen-install@v1
+        uses: ssciwr/doxygen-install@v2
         with:
           version: "1.9.7"
 
