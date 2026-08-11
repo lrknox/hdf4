@@ -56,7 +56,7 @@ jobs:
             locallibaec: OFF
             localzlib: OFF
             cacheinit: "-C $GITHUB_WORKSPACE/config/cmake/cacheinit.cmake"
-            generator: "-G \"Visual Studio 17 2022\" -A x64"
+            generator: "-G \"Visual Studio 18 2026\" -A x64"
             run_tests: true
 
           # Linux (Ubuntu) w/ gcc + CMake
