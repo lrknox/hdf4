@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['x_5fop_0',['x_op',['../struct_x_d_r.html#a2cd16c70ba3a4db5d82b7f9dcad18fac',1,'XDR']]],
+  ['x_5fprivate_1',['x_private',['../struct_x_d_r.html#ae044713d60b9b590205f3b20c5b37acb',1,'XDR']]],
+  ['xd_2',['xd',['../struct_r8dim.html#ae8205b77e2f7f4a7e17aec6990ef613a',1,'R8dim']]],
+  ['xdim_3',['xdim',['../struct_d_f_g_rdr.html#a2686c278c2a3cb76ec0711811a046a8d',1,'DFGRdr::xdim'],['../struct_d_f_rdr.html#a2686c278c2a3cb76ec0711811a046a8d',1,'DFRdr::xdim'],['../structdim__info__t.html#a2686c278c2a3cb76ec0711811a046a8d',1,'dim_info_t::xdim'],['../hproto__fortran_8h.html#a91f652cfb190fb25c9557d860158820b',1,'xdim:&#160;hproto_fortran.h']]],
+  ['xdr_4',['XDR',['../struct_x_d_r.html',1,'']]],
+  ['xdr_5fcdf_5',['xdr_cdf',['../nc__priv_8h.html#a3445704774c13c5136684b5f32566c80',1,'nc_priv.h']]],
+  ['xdr_5fdecode_6',['XDR_DECODE',['../hdf__xdr__priv_8h.html#a3055ce94f85d6aeec3b736d93b93a46aa14a5efd00dbe10ce40c3ee3a6480470f',1,'hdf_xdr_priv.h']]],
+  ['xdr_5fencode_7',['XDR_ENCODE',['../hdf__xdr__priv_8h.html#a3055ce94f85d6aeec3b736d93b93a46aa667ca633eb284e94bac0809c6ea9be9e',1,'hdf_xdr_priv.h']]],
+  ['xdr_5ffree_8',['XDR_FREE',['../hdf__xdr__priv_8h.html#a3055ce94f85d6aeec3b736d93b93a46aa635a519e81b27b8f6b324c360d2354c4',1,'hdf_xdr_priv.h']]],
+  ['xdr_5fnc_5farray_9',['xdr_NC_array',['../nc__priv_8h.html#a2ddda17bcae8220ccda9ee25efa21c0a',1,'nc_priv.h']]],
+  ['xdr_5fnc_5fattr_10',['xdr_NC_attr',['../nc__priv_8h.html#af26ae112990b653a1666e2e224bcfb79',1,'nc_priv.h']]],
+  ['xdr_5fnc_5fdim_11',['xdr_NC_dim',['../nc__priv_8h.html#a6c977be2c22fdda890e7c6094ba50797',1,'nc_priv.h']]],
+  ['xdr_5fnc_5ffill_12',['xdr_NC_fill',['../nc__priv_8h.html#a8beabbdb66779ee81fd0138cc596cefd',1,'nc_priv.h']]],
+  ['xdr_5fnc_5fiarray_13',['xdr_NC_iarray',['../nc__priv_8h.html#aac9e1dd3116c170551d478cfbaa39331',1,'nc_priv.h']]],
+  ['xdr_5fnc_5fstring_14',['xdr_NC_string',['../nc__priv_8h.html#a1b55f241cfd859383b21d59cc64a08bb',1,'nc_priv.h']]],
+  ['xdr_5fnc_5fvar_15',['xdr_NC_var',['../nc__priv_8h.html#a63fa4eaef43e7fc5374876509961a57e',1,'nc_priv.h']]],
+  ['xdr_5fncvshort_16',['xdr_NCvshort',['../nc__priv_8h.html#a23887b1f43808bc71abd2c51676b10fa',1,'nc_priv.h']]],
+  ['xdr_5fnumrecs_17',['xdr_numrecs',['../nc__priv_8h.html#a60949423dc34a8ae90e72384816e35b7',1,'nc_priv.h']]],
+  ['xdr_5fop_18',['xdr_op',['../hdf__xdr__priv_8h.html#a3055ce94f85d6aeec3b736d93b93a46a',1,'hdf_xdr_priv.h']]],
+  ['xdr_5fshorts_19',['xdr_shorts',['../nc__priv_8h.html#a2627d7ff7c96aa8a3b428cb2c1bf0587',1,'nc_priv.h']]],
+  ['xdrs_20',['xdrs',['../struct_n_c.html#a0fec6fa63eddc50de2605a435f4ec72c',1,'NC']]],
+  ['xpos_21',['xpos',['../struct_d_f_g_rrig.html#aa068ded562c4cfea8f3fe8c1b3d9a56a',1,'DFGRrig::xpos'],['../struct_d_f_rrig.html#aa068ded562c4cfea8f3fe8c1b3d9a56a',1,'DFRrig::xpos']]]
+];
