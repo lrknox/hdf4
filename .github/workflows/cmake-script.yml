@@ -537,7 +537,7 @@ jobs:
         id: setup-clang
         with:
           env: true
-          version: '18'
+          version: '21'
 
       - name: Set file base name (Windows_clang)
         id: set-file-base
