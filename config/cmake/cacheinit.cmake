@@ -26,7 +26,7 @@ set (HDF4_ENABLE_ALL_WARNINGS ON CACHE BOOL "Enable all warnings" FORCE)
 
 set (HDF4_MINGW_STATIC_GCC_LIBS ON CACHE BOOL "Statically link libgcc/libstdc++" FORCE)
 
-set (HDF4_ALLOW_EXTERNAL_SUPPORT "TGZ" CACHE STRING "Allow External Library Building (NO GIT TGZ)" FORCE)
+set (HDF4_ALLOW_EXTERNAL_SUPPORT "GIT" CACHE STRING "Allow External Library Building (NO GIT TGZ)" FORCE)
 set_property (CACHE HDF4_ALLOW_EXTERNAL_SUPPORT PROPERTY STRINGS NO GIT TGZ)
 
 ########################
@@ -63,10 +63,8 @@ set (JPEG_GIT_BRANCH "jpeg-9e" CACHE STRING "" FORCE)
 #set (JPEG_GIT_URL "https://github.com/LuaDist/libjpeg.git" CACHE STRING "Use JPEG from ILG" FORCE)
 #set (JPEG_GIT_BRANCH "master" CACHE STRING "" FORCE)
 
-set (JPEG_TGZ_ORIGPATH "https://jpegclub.org/reference/wp-content/uploads/2026/01" CACHE STRING "Use JPEG from original location" FORCE)
-set (JPEG_TGZ_NAME "jpegsrc.v10.tar.gz" CACHE STRING "Use JPEG from updated compressed file" FORCE)
-#set (JPEG_TGZ_ORIGPATH "https://www.ijg.org/files" CACHE STRING "Use JPEG from original location" FORCE)
-#set (JPEG_TGZ_NAME "jpegsrc.v9e.tar.gz" CACHE STRING "Use JPEG from original compressed file" FORCE)
+set (JPEG_TGZ_ORIGPATH "https://www.ijg.org/files" CACHE STRING "Use JPEG from original location" FORCE)
+set (JPEG_TGZ_NAME "jpegsrc.v9e.tar.gz" CACHE STRING "Use JPEG from original compressed file" FORCE)
 set (JPEG_USE_LOCALCONTENT ON CACHE BOOL "Use local file for JPEG FetchContent" FORCE)
 
 set (JPEG_PACKAGE_NAME "jpeg" CACHE STRING "Name of JPEG package" FORCE)
