@@ -126,8 +126,8 @@ jobs:
   build_and_test_linux:
   # Linux (Ubuntu) w/ gcc + CMake
   #
-    name: "Ubuntu gcc CMake"
-    runs-on: ubuntu-latest
+    name: "Ubuntu 26.04 gcc CMake"
+    runs-on: ubuntu-26.04
     steps:
       - name: Install CMake Dependencies (Linux)
         run: |
